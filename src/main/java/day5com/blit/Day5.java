@@ -18,6 +18,14 @@ public class Day5 {
         volvoTruck.setColor("Black");
         //
         appleCar.colorDetail();
+        volvoTruck.colorDetail();
+
+        // Polymorphism practice
+        Animal dog = new Dog();
+        dog.sound();
+
+        Dog cat = new Cat();
+        cat.sound();
 
 
     }

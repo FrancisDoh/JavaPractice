@@ -14,8 +14,8 @@ public class Day4 {
         // Java is not 100% OOP because it has non-primitive data types.
 
         // TYPE CASTING
-        // Widening: byte -> short -> int -> double
-        // Narrowing: double -> int -> byte
+        // Widening (Implicit casting): byte -> short -> int -> double
+        // Narrowing (Explicit casting): double -> int -> short -> byte
 
         // Widening
         byte a = 120;
