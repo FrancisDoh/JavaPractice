@@ -20,7 +20,7 @@ public class Day4 {
         // Widening
         byte a = 120;
         int b =  a;
-//        System.out.println("Widenning casting example: " + b);
+//        System.out.println("Widening casting example: " + b);
 
         // Narrowing
         float c = 3.45f;

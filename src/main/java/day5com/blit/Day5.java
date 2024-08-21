@@ -27,6 +27,7 @@ public class Day5 {
         Dog cat = new Cat();
         cat.sound();
 
+        //Object o = new Cat();
 
     }
 }

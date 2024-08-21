@@ -79,7 +79,7 @@ public class Day1 {
          */
         int inputYear;
         System.out.print("Enter a year: ");
-        Scanner input = new Scanner((System.in));
+        Scanner input = new Scanner(System.in);
         inputYear = input.nextInt();
         boolean yearStatus = checkLeapYearStatus(inputYear); // Call of year checking method.
         //
